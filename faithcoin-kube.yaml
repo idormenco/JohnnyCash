@@ -1,22 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: faithcoin
+  name: johnnycash
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: faithcoin
+      app: johnnycash
   template:
     metadata:
       labels:
-        app: faithcoin
+        app: johnnycash
         version: v0.15
     spec:
       containers:
-      - name: faithcoin
-        image: toolboc/faithcoin
+      - name: johnnycash
+        image: toolboc/johnnycash
         ports:
         - containerPort: 9666
-          name: faithcoin
+          name: johnnycash
           protocol: TCP

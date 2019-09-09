@@ -1,9 +1,9 @@
 FROM ubuntu:16.04
 
-COPY ./faithcoin.conf /root/.faithcoin/faithcoin.conf
+COPY ./johnnycash.conf /root/.johnnycash/johnnycash.conf
 
-COPY . /faithcoin
-WORKDIR /faithcoin
+COPY . /johnnycash
+WORKDIR /johnnycash
 
 #shared libraries and dependencies
 RUN apt update
@@ -22,7 +22,7 @@ RUN apt-get install -y libminiupnpc-dev
 #ZMQ
 RUN apt-get install -y libzmq3-dev
 
-#build faithcoin source
+#build johnnycash source
 RUN ./autogen.sh
 RUN ./configure
 RUN make
@@ -31,4 +31,4 @@ RUN make install
 #open service port
 EXPOSE 9666 19666
 
-CMD ["faithcoind", "--printtoconsole"]
+CMD ["johnnycashd", "--printtoconsole"]
