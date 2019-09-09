@@ -22,7 +22,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/johnnycash-project/johnnycash.git"
+- "url": "https://github.com/idormenco/JohnnyCash.git"
   "dir": "johnnycash"
 files: []
 script: |

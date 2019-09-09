@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/johnnycash-project/johnnycash-detached-sigs.git"
+- "url": "https://github.com/idormenco/JohnnyCash-detached-sigs.git"
   "dir": "signature"
 files:
 - "johnnycash-osx-unsigned.tar.gz"

@@ -29,7 +29,7 @@ Build johnnycash Core
 
 1. Clone the johnnycash source code and cd into `johnnycash`
 
-        git clone https://github.com/johnnycash-project/johnnycash
+        git clone https://github.com/idormenco/JohnnyCash
         cd johnnycash
 
 2.  Build johnnycash-core:

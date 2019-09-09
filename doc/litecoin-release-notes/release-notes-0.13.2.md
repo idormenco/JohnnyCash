@@ -7,7 +7,7 @@ It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/johnnycash-project/johnnycash/issues>
+  <https://github.com/idormenco/JohnnyCash/issues>
 
 Compatibility
 ==============
