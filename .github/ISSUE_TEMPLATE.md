@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to johnnycash-core.
 
 General johnnycash questions and/or support requests and are best directed to the [johnnycashtalk.io forums](https://johnnycashtalk.io/).
 
-For reporting security issues, please contact the johnnycash developers on the #johnnycash-dev Freenode IRC channel or alternatively you can email us at contact@faithco.in.
+For reporting security issues, please contact the johnnycash developers on the #johnnycash-dev Freenode IRC channel or alternatively you can email us at idormenco@gmail.com.
 
 ### Describe the issue
 
