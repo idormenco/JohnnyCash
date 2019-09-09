@@ -1,10 +1,6 @@
 johnnycash Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/toolboc/johnnycash.svg?branch=master)](https://travis-ci.org/toolboc/johnnycash)
-
-http://faithco.in
-
 What is johnnycash?
 ----------------
 
@@ -13,10 +9,6 @@ anyone, anywhere in the world. johnnycash uses peer-to-peer technology to operat
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. johnnycash Core is the name of open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the johnnycash Core software, see [http://faithco.in](http://faithco.in).
-
 License
 -------
 

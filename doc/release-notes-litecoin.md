@@ -1,10 +1,6 @@
 (note: this is a temporary file, to be added-to by anybody, and moved to
 release-notes at release time)
 
-johnnycash Core version *0.15.0* is now available from:
-
-  <https://download.faithco.in/johnnycash-0.15.0/>
-
 This is a new major version release, including new features, various bugfixes
 and performance improvements, as well as updated translations.
 
